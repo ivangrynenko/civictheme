@@ -32,7 +32,7 @@
     "@storybook/addon-knobs": "^6.3.1",
     "@storybook/addon-links": "^6.3.8",
     "@storybook/addons": "^6.1.18",
-    "@storybook/html": "^6.3.8",
+    "@storybook/html": "^8.1.5",
     "@storybook/preset-scss": "^1.0.3",
     "@whitespace/storybook-addon-html": "^5.0.0",
     "babel-loader": "^8.2.2",
